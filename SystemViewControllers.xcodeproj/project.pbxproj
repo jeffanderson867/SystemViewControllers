@@ -54,11 +54,11 @@
 		8B5E83041EE71E47008F01CA /* SystemViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				8B5E83051EE71E47008F01CA /* AppDelegate.swift */,
-				8B5E83071EE71E47008F01CA /* ViewController.swift */,
 				8B5E83091EE71E47008F01CA /* Main.storyboard */,
+				8B5E83071EE71E47008F01CA /* ViewController.swift */,
 				8B5E830C1EE71E47008F01CA /* Assets.xcassets */,
 				8B5E830E1EE71E47008F01CA /* LaunchScreen.storyboard */,
+				8B5E83051EE71E47008F01CA /* AppDelegate.swift */,
 				8B5E83111EE71E47008F01CA /* Info.plist */,
 			);
 			path = SystemViewControllers;
@@ -266,7 +266,7 @@
 				DEVELOPMENT_TEAM = WJF68UAPXP;
 				INFOPLIST_FILE = SystemViewControllers/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.AndersonCoding.SystemViewControllers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AndersonCoding.unit4stuff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -279,7 +279,7 @@
 				DEVELOPMENT_TEAM = WJF68UAPXP;
 				INFOPLIST_FILE = SystemViewControllers/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.AndersonCoding.SystemViewControllers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AndersonCoding.unit4stuff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
